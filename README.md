@@ -91,9 +91,10 @@ A powerful and interactive audio visualization tool built with Python that allow
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## View:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![image](https://github.com/user-attachments/assets/be9a12f6-7444-4ad7-ae08-c65c88954b8d)
+
 
 ## Acknowledgments
 

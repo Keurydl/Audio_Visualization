@@ -21,7 +21,7 @@ A powerful and interactive audio visualization tool built with Python that allow
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/audio-visualization-tool.git
+   git clone https://github.com/yourusername/audio-visualization.git
    cd audio-visualization-tool
    ```
 
@@ -95,10 +95,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ![image](https://github.com/user-attachments/assets/be9a12f6-7444-4ad7-ae08-c65c88954b8d)
 
-
-## Acknowledgments
-
-- Built with ❤️ using Python
-- Uses [Librosa](https://librosa.org/) for audio processing
-- [Matplotlib](https://matplotlib.org/) for visualization
-- [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/) for audio I/O
